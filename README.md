@@ -60,13 +60,13 @@ BCS601-4MW23CS129/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/bcs601_4mwcsxxx.git
+https://github.com/Sairaj-Serigara/bcs601_4mwcs129
 ```
 
 2. Navigate to project folder
 
 ```
-cd BCS601-4MW23CS129
+cd BCS601_4MW23CS129
 ```
 
 3. Install dependencies
