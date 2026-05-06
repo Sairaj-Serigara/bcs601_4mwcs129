@@ -41,11 +41,11 @@ It allows users to perform basic arithmetic operations such as:
 ## 📂 Project Structure
 
 ```
-BCS601-USNXXX/
+BCS601-4MW23CS129/
 │
 ├── app.py
 ├── requirements.txt
-├── app.yaml (optional)
+├── render.yaml
 ├── templates/
 │   └── index.html
 ├── static/
@@ -66,7 +66,7 @@ git clone https://github.com/your-username/bcs601_4mwcsxxx.git
 2. Navigate to project folder
 
 ```
-cd BCS601-USNXXX
+cd BCS601-4MW23CS129
 ```
 
 3. Install dependencies
@@ -94,8 +94,7 @@ http://127.0.0.1:5000
 The application is deployed on a cloud platform.
 
 🔗 **Live URL:**
-👉 https://your-app.onrender.com
-
+ https://bcs601-4mwcs129-1.onrender.com/
 ---
 
 ## 📊 Output
